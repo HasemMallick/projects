@@ -1,6 +1,10 @@
 <h3 align="center">A interactive landing page for the students</h3>
-
 <h3 align="left">Connect with me:</h3>
+
+![SS](https://github.com/HasemMallick/projects/blob/main/Multi-Page%20Website/SS/page_1.PNG)
+![SS](https://github.com/HasemMallick/projects/blob/main/Multi-Page%20Website/SS/page_2.PNG)
+![SS](https://github.com/HasemMallick/projects/blob/main/Multi-Page%20Website/SS/page_3.PNG)
+
 <p align="left">
 </p>
 
