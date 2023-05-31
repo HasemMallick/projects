@@ -1,4 +1,5 @@
-<h3 align="center">Web-GIS App</h3>
+<h1 align="center">Web-GIS App</h1>
+<p align="center"> The interactive web map service render the data dynamically. Ones user will click any outlet it will take the user to desire location with a specfic time and it will shoe the details of the outlets. </p>  
 <h3 align="left">For this project I have used HTML, CSS, JavaScript, and Leaflet.JS</h3>
 
 ![SS](https://github.com/HasemMallick/projects/blob/main/BIG_BAZAAR_OUTLETS/SS/page_1.PNG)
