@@ -1,6 +1,14 @@
-<h3 align="center">A interactive landing page for the students</h3>
+<h2 align="center">E-Commerce Full page</h2>
+<h3 align="center">A modern, and attractice e-Commerce page <br> Here I have used only <e> HTML & CSS </e> </h3>
+<h5 align="left"> Following are the sreen shorts of the project </h5>
 
-<h3 align="left">Connect with me:</h3>
+![SS](https://github.com/HasemMallick/projects/blob/main/Beats/SS/page_1.PNG)
+![SS](https://github.com/HasemMallick/projects/blob/main/Beats/SS/page_2.PNG)
+![SS](https://github.com/HasemMallick/projects/blob/main/Beats/SS/page_3.PNG)
+![SS](https://github.com/HasemMallick/projects/blob/main/Beats/SS/page_4.PNG)
+![SS](https://github.com/HasemMallick/projects/blob/main/Beats/SS/page_5.PNG)
+![SS](https://github.com/HasemMallick/projects/blob/main/Beats/SS/page_6.PNG)
+
 <p align="left">
 </p>
 
