@@ -1,5 +1,5 @@
-<h1 align="center">Landing page e-Education landing page</h1>
-<h3 align="center">A interactive landing page for the students</h3>
+<h1 align="center">e-Education landing page</h1>
+<h3 align="center" Here I have used HTML5, TailwindCSS</h3>
 
 ![SS](https://github.com/HasemMallick/projects/blob/main/online_education_landing_page/project_SS/Screenshot%20(279).png)
 ![SS](https://github.com/HasemMallick/projects/blob/main/online_education_landing_page/project_SS/Screenshot%20(280).png)
