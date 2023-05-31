@@ -1,6 +1,8 @@
 <h1 align="center">Landing page e-Education landing page</h1>
 <h3 align="center">A interactive landing page for the students</h3>
 
+![SS](https://github.com/HasemMallick/projects/blob/main/online_education_landing_page/project_SS/Screenshot%20(279).png)
+![SS](https://github.com/HasemMallick/projects/blob/main/online_education_landing_page/project_SS/Screenshot%20(280).png)
 
 <p align="left">
 </p>
